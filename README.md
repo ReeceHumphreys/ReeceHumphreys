@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reece</h1>
 <h3 align="center">I use mathematics, physics, and programming to solve interesting problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reecehumphreys" alt="reecehumphreys" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/reecewhumphreys" target="blank"><img src="https://img.shields.io/twitter/follow/reecewhumphreys?logo=twitter&style=for-the-badge" alt="reecewhumphreys" /></a> </p>
 
 - 🔭 I’m currently working on [ICE](https://github.com/zeroc-ice)
