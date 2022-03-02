@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reece</h1>
 <h3 align="center">I use mathematics, physics, and programming to solve interesting problems.</h3>
 
-- 🔭 I’m currently working on [ICE](https://github.com/zeroc-ice)
+- 🔭 I’m currently working on [Internet Communication Engine](https://github.com/zeroc-ice)
 
 - 🌱 I’m currently learning **C# and Rust**
 
