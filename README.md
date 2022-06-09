@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reece</h1>
+## Hello 👋
 
 - 🔭 I’m currently working on [Internet Communication Engine](https://github.com/zeroc-ice)
 
